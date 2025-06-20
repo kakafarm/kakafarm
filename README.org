@@ -1,5 +1,5 @@
 - My site - [[https://kaka.farm/]].
-- My blog - [[https://kaka.farm/posts/][The Scheming Jew]]. (mirror on [[https://kakafarm.codeberg.page/posts/]]).
+- My blog - [[https://kaka.farm/posts/]]. (mirror on [[https://kakafarm.codeberg.page/posts/]]).
 
 Most repositories now on [[https://codeberg.org/kakafarm/]] and
 [[https://kaka.farm/~stagit/]].
